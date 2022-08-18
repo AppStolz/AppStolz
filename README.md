@@ -1,4 +1,10 @@
-### Hi there 👋
+### **Hi, I'm [App-Stolz](https://app-stolz.de/)** 👌
+- **🔭 I’m currently working on** **|** *[Marble on Tiktok-Live](https://app-stolz.de/Marble-on-Tiktok-Live)* **|**  *[Fight on Tiktok-Live](https://app-stolz.de/Fight-on-Tiktok-Live)*
+- **🌱 I’m currently learning** **|**  *All of life is a lesson*
+- **📫 How to reach me:** *[Support@App-Stolz.de](mailto:support@app-stolz.de?subject=[GitHub]App-Stolz)*
+- **⚡ Fun fact:**  *A program is not finished until the programmer dies*
+
+![HitCounter](https://komarev.com/ghpvc/?username=app-stolz)
 
 <!--
 **AppStolz/AppStolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
